@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color:#000;
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.about-hero {
+    background: linear-gradient(135deg, #F1F1F1);
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 2;
+}
+
+img.rounded-circle {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+section .aboutus .btn {
+    text-decoration: black;
+}
+.btn-warning {
+    font-weight: bold;
+}
+
+footer a {
+    text-decoration: none;
+    color: #f8f9fa;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

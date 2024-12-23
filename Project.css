@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.hero {
+    color: black;
+}
+.hero .container{
+    color: #1a1a1a;
+}
+section .features {
+    background-color: #F1F1F1;
+}
+.integration .container .row
+.features img,
+.testimonials img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    background-color: #F1F1F1;
+}
+#h1{
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 100px;
+    
+}
+#h2{
+width: 1000px;
+height: 600px;
+}
